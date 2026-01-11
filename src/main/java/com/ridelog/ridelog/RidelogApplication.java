@@ -6,8 +6,8 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 @SpringBootApplication
 public class RidelogApplication {
 
-	public static void main(String[] args) {
-		SpringApplication.run(RidelogApplication.class, args);
-	}
+    public static void main(String[] args) {
+        SpringApplication.run(RidelogApplication.class, args);
+    }
 
 }
