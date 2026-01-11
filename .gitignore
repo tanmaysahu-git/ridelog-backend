@@ -47,3 +47,6 @@ data/
 
 # Env files
 application-local.properties
+# Local / sensitive config
+src/main/resources/application.properties
+src/main/resources/application-*.properties
