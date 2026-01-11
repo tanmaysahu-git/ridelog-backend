@@ -1,4 +1,4 @@
-package com.ridelog.ridelog.authservice.healthservice;
+package com.ridelog.ridelog.healthservice;
 
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestMapping;
