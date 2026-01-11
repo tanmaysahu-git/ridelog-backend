@@ -47,3 +47,4 @@ data/
 
 # Env files
 application-local.properties
+application.properties
